@@ -772,13 +772,20 @@ function downloadBibTeX(idx) {
   if (!a) return;
   let bibtex = a.bibtex || '';
   if (!bibtex) {
-    // Generate on-the-fly
-    const authors = (a.authors||[]).map(au => au.name).join(' and ');
-    const lines = [
-      '@article{Unknown' + (a.year||'2026') + ', ',
-      'author = {' + authors + '},',
-      'title = {' + (a.title||'').replace(/<[^>]+>/g, '') + '},',
-      'year = {' + (a.year||'') + '},',
+  // Generate on-the-fly with correct key (first author surname + year)
+  const authors = (a.authors||[]).map(au => au.name).join(' and ');
+  let key = 'Unknown' + (a.year||'2026');
+  if (a.authors && a.authors.length > 0) {
+    const parts = (a.authors[0].name || '').trim().split(/\s+/);
+    if (parts.length >= 2) {
+      key = parts[parts.length-1].replace(/[^\w]/g, '') + (a.year||'2026');
+    }
+  }
+  const lines = [
+    '@article{' + key + ', ',
+    'author = {' + authors + '},',
+    'title = {' + (a.title||'').replace(/<[^>]+>/g, '') + '},',
+    'year = {' + (a.year||'') + '},',
       'journal = {Friction},',
       'volume = {' + (a.volume||'') + '},',
       'number = {' + (a.issue||'') + '},',
