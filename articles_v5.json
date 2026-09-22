@@ -9888,7 +9888,7 @@
       }
     ],
     "authorNum": 3,
-    "type": "Review Article",
+    "type": "Review",
     "year": "2025",
     "volume": "13",
     "issue": "12",
@@ -9940,7 +9940,7 @@
       }
     ],
     "authorNum": 5,
-    "type": "Review Article",
+    "type": "Review",
     "year": "2025",
     "volume": "13",
     "issue": "12",
@@ -10342,7 +10342,7 @@
       }
     ],
     "authorNum": 5,
-    "type": "Review Article",
+    "type": "Review",
     "year": "2025",
     "volume": "13",
     "issue": "11",
@@ -10517,7 +10517,7 @@
       }
     ],
     "authorNum": 7,
-    "type": "Review Article",
+    "type": "Review",
     "year": "2025",
     "volume": "13",
     "issue": "11",
@@ -11015,7 +11015,7 @@
       }
     ],
     "authorNum": 5,
-    "type": "Review Article",
+    "type": "Review",
     "year": "2025",
     "volume": "13",
     "issue": "10",
@@ -11345,7 +11345,7 @@
       }
     ],
     "authorNum": 7,
-    "type": "Review Article",
+    "type": "Review",
     "year": "2025",
     "volume": "13",
     "issue": "10",
@@ -11392,7 +11392,7 @@
       }
     ],
     "authorNum": 4,
-    "type": "Review Article",
+    "type": "Review",
     "year": "2025",
     "volume": "13",
     "issue": "9",
@@ -11852,7 +11852,7 @@
       }
     ],
     "authorNum": 4,
-    "type": "Review Article",
+    "type": "Review",
     "year": "2025",
     "volume": "13",
     "issue": "9",
@@ -13254,7 +13254,7 @@
       }
     ],
     "authorNum": 10,
-    "type": "Review Article",
+    "type": "Review",
     "year": "2025",
     "volume": "13",
     "issue": "7",
@@ -13298,7 +13298,7 @@
       }
     ],
     "authorNum": 3,
-    "type": "Review Article",
+    "type": "Review",
     "year": "2025",
     "volume": "13",
     "issue": "7",
@@ -14027,7 +14027,7 @@
       }
     ],
     "authorNum": 6,
-    "type": "Review Article",
+    "type": "Review",
     "year": "2025",
     "volume": "13",
     "issue": "6",
@@ -14362,7 +14362,7 @@
       }
     ],
     "authorNum": 4,
-    "type": "Review Article",
+    "type": "Review",
     "year": "2025",
     "volume": "13",
     "issue": "6",
@@ -14845,7 +14845,7 @@
       }
     ],
     "authorNum": 3,
-    "type": "Review Article",
+    "type": "Review",
     "year": "2025",
     "volume": "13",
     "issue": "5",
@@ -15259,7 +15259,7 @@
       }
     ],
     "authorNum": 6,
-    "type": "Review Article",
+    "type": "Review",
     "year": "2025",
     "volume": "13",
     "issue": "5",
@@ -18035,7 +18035,7 @@
     "volume": "12",
     "issue": "12",
     "firstpage": "2627",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Friction",
       "Basic Sciences"
@@ -18606,7 +18606,7 @@
     "volume": "12",
     "issue": "11",
     "firstpage": "2399",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Surface Engineering"
     ],
@@ -19158,7 +19158,7 @@
     "volume": "12",
     "issue": "10",
     "firstpage": "2139",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Surface Engineering",
       "Wear"
@@ -19194,7 +19194,7 @@
     "volume": "12",
     "issue": "10",
     "firstpage": "2167",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Lubrication",
       "Friction"
@@ -19228,7 +19228,7 @@
     "volume": "12",
     "issue": "10",
     "firstpage": "2188",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Friction"
     ],
@@ -19818,7 +19818,7 @@
     "volume": "12",
     "issue": "9",
     "firstpage": "1909",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Surface Engineering"
     ],
@@ -19856,7 +19856,7 @@
     "volume": "12",
     "issue": "9",
     "firstpage": "1929",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Lubrication"
     ],
@@ -20437,7 +20437,7 @@
     "volume": "12",
     "issue": "8",
     "firstpage": "1623",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Friction",
       "Basic Sciences"
@@ -20481,7 +20481,7 @@
     "volume": "12",
     "issue": "8",
     "firstpage": "1655",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Basic Sciences"
     ],
@@ -21248,7 +21248,7 @@
     "volume": "12",
     "issue": "7",
     "firstpage": "1347",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Lubrication"
     ],
@@ -21291,7 +21291,7 @@
     "volume": "12",
     "issue": "7",
     "firstpage": "1392",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Lubrication",
       "Friction"
@@ -21959,7 +21959,7 @@
     "volume": "12",
     "issue": "6",
     "firstpage": "1060",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Basic Sciences"
     ],
@@ -22574,7 +22574,7 @@
     "volume": "12",
     "issue": "5",
     "firstpage": "823",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Lubrication"
     ],
@@ -22620,7 +22620,7 @@
     "volume": "12",
     "issue": "5",
     "firstpage": "845",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Friction"
     ],
@@ -23211,7 +23211,7 @@
     "volume": "12",
     "issue": "4",
     "firstpage": "569",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Lubrication"
     ],
@@ -23873,7 +23873,7 @@
     "volume": "12",
     "issue": "3",
     "firstpage": "375",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Friction",
       "Basic Sciences"
@@ -23915,7 +23915,7 @@
     "volume": "12",
     "issue": "3",
     "firstpage": "396",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Friction"
     ],
@@ -24409,7 +24409,7 @@
     "volume": "12",
     "issue": "2",
     "firstpage": "185",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Surface Engineering"
     ],
@@ -24934,7 +24934,7 @@
     "volume": "12",
     "issue": "1",
     "firstpage": "1",
-    "type": "Review Article",
+    "type": "Review",
     "research_area": [
       "Friction",
       "Lubrication",
