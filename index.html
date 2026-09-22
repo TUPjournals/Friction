@@ -472,7 +472,7 @@ body {
 <button id="backTop" class="back-top" title="Back to search">▴</button>
 
 <script>
-const DATA_URL = 'articles.json';
+const DATA_URL = 'articles_final.json';
 let allArticles = [];
 let filteredArticles = [];
 
@@ -614,7 +614,7 @@ function render() {
     });
     const shortNames = formattedAuthors.join(', ');
     const kws = (a.keywords||[]).slice(0,5).map(k => `<span class="kw">${highlight(k.replace(/<[^>]+>/g, ''), currentQuery)}</span>`).join('');
-    const volIssue = (a.volume || a.issue) ? `Vol.${a.volume||'?'} Iss. ${a.issue||'?'}` : '';
+    const volIssue = (a.volume && a.issue) ? `Vol.${a.volume} Iss.${a.issue}` : (a.publication_date ? 'Online First' : '');
 
     return `
     <div class="card" data-idx="${i}">
@@ -641,7 +641,7 @@ function render() {
         <div class="detail-grid">
           ${a.doi ? `<div class="d-item"><label>DOI</label><span>${esc(a.doi)}</span></div>` : ''}
           ${a.volume ? `<div class="d-item"><label>Volume(Issue)</label><span>${a.volume}(${a.issue})</span></div>` : ''}
-          ${a.firstpage ? `<div class="d-item"><label>Article number</label><span>${a.firstpage}</span></div>` : ''}
+          ${a.firstpage ? `<div class="d-item"><label>${a.volume ? 'Article number' : 'Article number'}</label><span>${a.firstpage}</span></div>` : ''}
           ${a.publication_date ? `<div class="d-item"><label>Published</label><span>${esc(a.publication_date)}</span></div>` : ''}
         </div>
         ${a.abstract ? `<div class="d-abstract"><strong>Abstract:</strong> ${highlight(a.abstract.replace(/<[^>]+>/g, ''), currentQuery)}</div>` : ''}
