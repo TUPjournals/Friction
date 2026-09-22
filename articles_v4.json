@@ -9373,7 +9373,14 @@
   {
     "doi": "10.26599/FRICT.2025.9441155",
     "title": "Surfactant-free CuO nanoball-based nanolubricants: Experimental insights into dispersion stability, thermo-rheological properties, and tribological behavior",
-    "authors": "Siraj Azam, Sang-Shin Park",
+    "authors": [
+      {
+        "name": "Siraj Azam"
+      },
+      {
+        "name": "Sang-Shin Park"
+      }
+    ],
     "authorNum": 2,
     "type": "Research Article",
     "year": "2025",
@@ -9397,7 +9404,29 @@
   {
     "doi": "10.26599/FRICT.2025.9441106",
     "title": "A glance into the boundary lubrication mechanism of PVA hydrogel after the reduction of interstitial fluid pressurization",
-    "authors": "Daniel Němeček, David Nečas, Hironori Shinmori Seido Yarimitsu, Max Marian, Martin Vrbka, Yoshinori Sawae, Ivan Křupka Martin Hartl",
+    "authors": [
+      {
+        "name": "Daniel Němeček"
+      },
+      {
+        "name": "David Nečas"
+      },
+      {
+        "name": "Hironori Shinmori Seido Yarimitsu"
+      },
+      {
+        "name": "Max Marian"
+      },
+      {
+        "name": "Martin Vrbka"
+      },
+      {
+        "name": "Yoshinori Sawae"
+      },
+      {
+        "name": "Ivan Křupka Martin Hartl"
+      }
+    ],
     "authorNum": 9,
     "type": "Research Article",
     "year": "2025",
@@ -9421,7 +9450,14 @@
   {
     "doi": "10.26599/FRICT.2025.9441089",
     "title": "Experimental investigation of the influence of surface structures on hydrodynamic fluid film thickness and contact temperatures in sliding contacts",
-    "authors": "Dilek Bulut, Norbert Bader",
+    "authors": [
+      {
+        "name": "Dilek Bulut"
+      },
+      {
+        "name": "Norbert Bader"
+      }
+    ],
     "authorNum": 2,
     "type": "Research Article",
     "year": "2025",
@@ -9445,7 +9481,29 @@
   {
     "doi": "10.26599/FRICT.2025.9441081",
     "title": "Investigation into the tribodynamics of spur gear pairs considering pitch deviations and lubrication",
-    "authors": "Lintao Duan, Hao Zhang, Liming Wang Wennian Yu, Yimin Shao, Zaigang Chen, Minggang Du, Fengshou Gu Andrew Ball",
+    "authors": [
+      {
+        "name": "Lintao Duan"
+      },
+      {
+        "name": "Hao Zhang"
+      },
+      {
+        "name": "Liming Wang Wennian Yu"
+      },
+      {
+        "name": "Yimin Shao"
+      },
+      {
+        "name": "Zaigang Chen"
+      },
+      {
+        "name": "Minggang Du"
+      },
+      {
+        "name": "Fengshou Gu Andrew Ball"
+      }
+    ],
     "authorNum": 9,
     "type": "Research Article",
     "year": "2025",
@@ -9470,7 +9528,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441073",
     "title": "Role of friction in tribofilm formation: Tribochemical evolution of proteins under AFM single-asperity friction",
-    "authors": "Jiachen Chen, Heng Liu, Yu Yan",
+    "authors": [
+      {
+        "name": "Jiachen Chen"
+      },
+      {
+        "name": "Heng Liu"
+      },
+      {
+        "name": "Yu Yan"
+      }
+    ],
     "authorNum": 3,
     "type": "Research Article",
     "year": "2025",
@@ -9495,7 +9563,20 @@
   {
     "doi": "10.26599/FRICT.2025.9441072",
     "title": "A 2.5D peridynamic model for turnout rail crack propagation under wheel rolling contact action",
-    "authors": "Xiaochuan Ma, Xianghe Wang, Linya Liu Weibin Yin, Yajie Wang Qi Zeng",
+    "authors": [
+      {
+        "name": "Xiaochuan Ma"
+      },
+      {
+        "name": "Xianghe Wang"
+      },
+      {
+        "name": "Linya Liu Weibin Yin"
+      },
+      {
+        "name": "Yajie Wang Qi Zeng"
+      }
+    ],
     "authorNum": 6,
     "type": "Research Article",
     "year": "2025",
@@ -9520,7 +9601,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441067",
     "title": "Synergistic effect between h-BN and MoS<sub>2</sub> for excellent lubrication of solid lubricant coating for high-temperature, open-air-system applications",
-    "authors": "Wenjuan Huai, Tianyi Han, Qingyuan Yu  Chenhui Zhang",
+    "authors": [
+      {
+        "name": "Wenjuan Huai"
+      },
+      {
+        "name": "Tianyi Han"
+      },
+      {
+        "name": "Qingyuan Yu  Chenhui Zhang"
+      }
+    ],
     "authorNum": 4,
     "type": "Research Article",
     "year": "2025",
@@ -9544,7 +9635,20 @@
   {
     "doi": "10.26599/FRICT.2025.9441066",
     "title": "Mechanochemistry mechanism of lubrication recovery and wear maps of base oil",
-    "authors": "Chuke Ouyang, Wei Song, Jingbo Fang Yonggang Meng, Liran Ma Yu Tian",
+    "authors": [
+      {
+        "name": "Chuke Ouyang"
+      },
+      {
+        "name": "Wei Song"
+      },
+      {
+        "name": "Jingbo Fang Yonggang Meng"
+      },
+      {
+        "name": "Liran Ma Yu Tian"
+      }
+    ],
     "authorNum": 6,
     "type": "Research Article",
     "year": "2025",
@@ -9569,7 +9673,26 @@
   {
     "doi": "10.26599/FRICT.2025.9441063",
     "title": "Suppressed friction-induced temperature rise at energetic β-HMX crystal interfaces by wax coating",
-    "authors": "Hongtu He, Guocheng Li, Xiao Zhu Huijing Duan, Jiaxin Yu, Rui Liu, Yanyang Qu Ying Yin",
+    "authors": [
+      {
+        "name": "Hongtu He"
+      },
+      {
+        "name": "Guocheng Li"
+      },
+      {
+        "name": "Xiao Zhu Huijing Duan"
+      },
+      {
+        "name": "Jiaxin Yu"
+      },
+      {
+        "name": "Rui Liu"
+      },
+      {
+        "name": "Yanyang Qu Ying Yin"
+      }
+    ],
     "authorNum": 8,
     "type": "Research Article",
     "year": "2025",
@@ -9593,7 +9716,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441056",
     "title": "Interfacial mechanical and tribochemical effects on friction mechanisms under air or vacuum conditions",
-    "authors": "Yuting Du, Fuchao Yang, Zhiguang Guo",
+    "authors": [
+      {
+        "name": "Yuting Du"
+      },
+      {
+        "name": "Fuchao Yang"
+      },
+      {
+        "name": "Zhiguang Guo"
+      }
+    ],
     "authorNum": 3,
     "type": "Review Article",
     "year": "2025",
@@ -9618,7 +9751,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441048",
     "title": "Electronics manufacturing tribology: Future opportunities and challenges",
-    "authors": "Jie Cheng, Shuo Gao, Jiahui Ma Zhenxiang Huang Shirong Ge",
+    "authors": [
+      {
+        "name": "Jie Cheng"
+      },
+      {
+        "name": "Shuo Gao"
+      },
+      {
+        "name": "Jiahui Ma Zhenxiang Huang Shirong Ge"
+      }
+    ],
     "authorNum": 5,
     "type": "Review Article",
     "year": "2025",
@@ -9642,7 +9785,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441174",
     "title": "Editorial for Special Issue on Biotribology and Biointerfaces",
-    "authors": "Jian Song, Yuhong Liu, Zhongxiao Peng",
+    "authors": [
+      {
+        "name": "Jian Song"
+      },
+      {
+        "name": "Yuhong Liu"
+      },
+      {
+        "name": "Zhongxiao Peng"
+      }
+    ],
     "authorNum": 3,
     "type": "Editorial",
     "year": "2025",
@@ -9667,7 +9820,26 @@
   {
     "doi": "10.26599/FRICT.2025.9441084",
     "title": "Robust low friction mechanism of HNT–PVPA composite coating based on microviscosity regulation",
-    "authors": "Caixia Zhang, Ruishen Wang, Lihui Wang Weihao Liang, Qiang Cheng, Yanhong Cheng, Congbin Yang Zhifeng Liu",
+    "authors": [
+      {
+        "name": "Caixia Zhang"
+      },
+      {
+        "name": "Ruishen Wang"
+      },
+      {
+        "name": "Lihui Wang Weihao Liang"
+      },
+      {
+        "name": "Qiang Cheng"
+      },
+      {
+        "name": "Yanhong Cheng"
+      },
+      {
+        "name": "Congbin Yang Zhifeng Liu"
+      }
+    ],
     "authorNum": 8,
     "type": "Research Article",
     "year": "2025",
@@ -9692,7 +9864,20 @@
   {
     "doi": "10.26599/FRICT.2025.9441074",
     "title": "Study on the protein adsorption and its properties of self-assembled chitosan coating",
-    "authors": "Deke Ma, Ziyan Zheng, Shanhua Qian Weiwei Chen, Da Bian Zifeng Ni",
+    "authors": [
+      {
+        "name": "Deke Ma"
+      },
+      {
+        "name": "Ziyan Zheng"
+      },
+      {
+        "name": "Shanhua Qian Weiwei Chen"
+      },
+      {
+        "name": "Da Bian Zifeng Ni"
+      }
+    ],
     "authorNum": 6,
     "type": "Research Article",
     "year": "2025",
@@ -9717,7 +9902,26 @@
   {
     "doi": "10.26599/FRICT.2025.9441046",
     "title": "Robust hydrogels with orderly assembly of hydroxyapatite induced by temperature gradient",
-    "authors": "Xinyue Zhang, Qin Chen, Kai Chen Haiyan Feng, Cunao Feng, Xiaowei Li, Dekun Zhang Shirong Ge",
+    "authors": [
+      {
+        "name": "Xinyue Zhang"
+      },
+      {
+        "name": "Qin Chen"
+      },
+      {
+        "name": "Kai Chen Haiyan Feng"
+      },
+      {
+        "name": "Cunao Feng"
+      },
+      {
+        "name": "Xiaowei Li"
+      },
+      {
+        "name": "Dekun Zhang Shirong Ge"
+      }
+    ],
     "authorNum": 8,
     "type": "Research Article",
     "year": "2025",
@@ -9741,7 +9945,14 @@
   {
     "doi": "10.26599/FRICT.2025.9441039",
     "title": "Employing knowledge transfer in machine learning for wear assessment on synthetic and biological materials",
-    "authors": "Manuel Henkel, Oliver Lieleg",
+    "authors": [
+      {
+        "name": "Manuel Henkel"
+      },
+      {
+        "name": "Oliver Lieleg"
+      }
+    ],
     "authorNum": 2,
     "type": "Research Article",
     "year": "2025",
@@ -9766,7 +9977,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441038",
     "title": "Film forming and lubrication mechanisms of whey proteins and mucin",
-    "authors": "Yating Huang, Yongbao Wei, Yan Wang  Zhihua Pang",
+    "authors": [
+      {
+        "name": "Yating Huang"
+      },
+      {
+        "name": "Yongbao Wei"
+      },
+      {
+        "name": "Yan Wang  Zhihua Pang"
+      }
+    ],
     "authorNum": 4,
     "type": "Research Article",
     "year": "2025",
@@ -9790,7 +10011,14 @@
   {
     "doi": "10.26599/FRICT.2025.9441036",
     "title": "Interaction of Pluronic F-127 with serum proteins and its feasibility as a lubricant additive for CoCrMo/UHMWPE interface",
-    "authors": "Ruben del Campo Muga, Seunghwan Lee",
+    "authors": [
+      {
+        "name": "Ruben del Campo Muga"
+      },
+      {
+        "name": "Seunghwan Lee"
+      }
+    ],
     "authorNum": 2,
     "type": "Research Article",
     "year": "2025",
@@ -9814,7 +10042,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441016",
     "title": "Advances in the contact mechanics theory and applications of biomimetic artificial adhesives inspired by biological multiscale hierarchical structures",
-    "authors": "Qian Cheng, Feodor M. Borodich, Zaida Gao Stanislav N. Gorb Xiaoqing Jin",
+    "authors": [
+      {
+        "name": "Qian Cheng"
+      },
+      {
+        "name": "Feodor M. Borodich"
+      },
+      {
+        "name": "Zaida Gao Stanislav N. Gorb Xiaoqing Jin"
+      }
+    ],
     "authorNum": 5,
     "type": "Review Article",
     "year": "2025",
@@ -9839,7 +10077,29 @@
   {
     "doi": "10.26599/FRICT.2025.9441013",
     "title": "Finite element analysis of biomechanical alterations in the temporomandibular joint following mandibular reconstruction",
-    "authors": "Boyang Wan, Emma Charters, Nobuhiro Yoda Ziyan Man, Tim Manzie, Krishnan Parthasarathi, Jonathan R. Clark, Qing Li Li Chang",
+    "authors": [
+      {
+        "name": "Boyang Wan"
+      },
+      {
+        "name": "Emma Charters"
+      },
+      {
+        "name": "Nobuhiro Yoda Ziyan Man"
+      },
+      {
+        "name": "Tim Manzie"
+      },
+      {
+        "name": "Krishnan Parthasarathi"
+      },
+      {
+        "name": "Jonathan R. Clark"
+      },
+      {
+        "name": "Qing Li Li Chang"
+      }
+    ],
     "authorNum": 9,
     "type": "Research Article",
     "year": "2025",
@@ -9863,7 +10123,20 @@
   {
     "doi": "10.26599/FRICT.2025.9440985",
     "title": "Tribocorrosion behavior at the taper–trunnion interface of artificial hip prostheses with different femoral head materials",
-    "authors": "Yali Zhang, Jian Pu, Wen Shi Shu Yang, Xiaogang Zhang Zhongmin Jin",
+    "authors": [
+      {
+        "name": "Yali Zhang"
+      },
+      {
+        "name": "Jian Pu"
+      },
+      {
+        "name": "Wen Shi Shu Yang"
+      },
+      {
+        "name": "Xiaogang Zhang Zhongmin Jin"
+      }
+    ],
     "authorNum": 6,
     "type": "Research Article",
     "year": "2025",
@@ -9888,7 +10161,23 @@
   {
     "doi": "10.26599/FRICT.2025.9440984",
     "title": "Recent progress of hydrogel-based biomimetic articular cartilage in mechanical and lubricated enhancement",
-    "authors": "Qin Chen, Kai Chen, Xinyue Zhang Haiyan Feng, Cunao Feng, Xiaowei Li Dekun Zhang",
+    "authors": [
+      {
+        "name": "Qin Chen"
+      },
+      {
+        "name": "Kai Chen"
+      },
+      {
+        "name": "Xinyue Zhang Haiyan Feng"
+      },
+      {
+        "name": "Cunao Feng"
+      },
+      {
+        "name": "Xiaowei Li Dekun Zhang"
+      }
+    ],
     "authorNum": 7,
     "type": "Review Article",
     "year": "2025",
@@ -9913,7 +10202,23 @@
   {
     "doi": "10.26599/FRICT.2025.9440956",
     "title": "A novel hydroxyapatite modified MXene-based hydrogel coating on Ti6Al4V alloy with improved biotribological properties and corrosion resistance",
-    "authors": "Hao Cao, Chenchen Wang, Yanan Li Yuan Wang, Chenxia Wang, Sheng Han Xin Zhao",
+    "authors": [
+      {
+        "name": "Hao Cao"
+      },
+      {
+        "name": "Chenchen Wang"
+      },
+      {
+        "name": "Yanan Li Yuan Wang"
+      },
+      {
+        "name": "Chenxia Wang"
+      },
+      {
+        "name": "Sheng Han Xin Zhao"
+      }
+    ],
     "authorNum": 7,
     "type": "Research Article",
     "year": "2025",
@@ -9937,7 +10242,20 @@
   {
     "doi": "10.26599/FRICT.2025.9440946",
     "title": "MAP-inspired dual crosslinked PVP-phenol sprayable hydrogel coating for stable marine antifouling applications",
-    "authors": "Haobo Shu, Junnan Cui, Yuhan Liu Xiuqin Bai, Chengqing Yuan Pan Cao",
+    "authors": [
+      {
+        "name": "Haobo Shu"
+      },
+      {
+        "name": "Junnan Cui"
+      },
+      {
+        "name": "Yuhan Liu Xiuqin Bai"
+      },
+      {
+        "name": "Chengqing Yuan Pan Cao"
+      }
+    ],
     "authorNum": 6,
     "type": "Research Article",
     "year": "2025",
@@ -9961,7 +10279,17 @@
   {
     "doi": "10.26599/FRICT.2025.9440926",
     "title": "Bioinspired self-adhesive coating for surface functionalization of medical devices with lubrication and antibacterial properties",
-    "authors": "Weicheng Guo, Lijun Zhao, Zhenghui Qin Yuguang Wang Hongyu Zhang",
+    "authors": [
+      {
+        "name": "Weicheng Guo"
+      },
+      {
+        "name": "Lijun Zhao"
+      },
+      {
+        "name": "Zhenghui Qin Yuguang Wang Hongyu Zhang"
+      }
+    ],
     "authorNum": 5,
     "type": "Research Article",
     "year": "2025",
@@ -9985,7 +10313,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441096",
     "title": "Mixed and thermal elastohydrodynamic simulation of a low-loss gear considering the gear system",
-    "authors": "Felix Farrenkopf, Thomas Lohner, Karsten Stahl",
+    "authors": [
+      {
+        "name": "Felix Farrenkopf"
+      },
+      {
+        "name": "Thomas Lohner"
+      },
+      {
+        "name": "Karsten Stahl"
+      }
+    ],
     "authorNum": 3,
     "type": "Research Article",
     "year": "2025",
@@ -10009,7 +10347,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441095",
     "title": "Synthesis of nature inspired, phosphorylcholine moieties and poly(ethylene oxide) brushes containing copolymers which synergise steric repulsion and hydration lubrication for articular cartilage",
-    "authors": "Marijus Jurkūnas, Ke Ren, Vaidas Klimkevičius Prashant K. Sharma Ričardas Makuška",
+    "authors": [
+      {
+        "name": "Marijus Jurkūnas"
+      },
+      {
+        "name": "Ke Ren"
+      },
+      {
+        "name": "Vaidas Klimkevičius Prashant K. Sharma Ričardas Makuška"
+      }
+    ],
     "authorNum": 5,
     "type": "Research Article",
     "year": "2025",
@@ -10034,7 +10382,29 @@
   {
     "doi": "10.26599/FRICT.2025.9441092",
     "title": "Graphene oxide gluing layer enabling macroscale tribology applications of pristine graphene",
-    "authors": "Mingi Choi, Ivan V. Vlassiouk, Won-Seok Kim Jeong Han Kim, Anirudha V. Sumant, Ji-Woong Jang, Junho Suh, Young-Jun Jang Songkil Kim",
+    "authors": [
+      {
+        "name": "Mingi Choi"
+      },
+      {
+        "name": "Ivan V. Vlassiouk"
+      },
+      {
+        "name": "Won-Seok Kim Jeong Han Kim"
+      },
+      {
+        "name": "Anirudha V. Sumant"
+      },
+      {
+        "name": "Ji-Woong Jang"
+      },
+      {
+        "name": "Junho Suh"
+      },
+      {
+        "name": "Young-Jun Jang Songkil Kim"
+      }
+    ],
     "authorNum": 9,
     "type": "Research Article",
     "year": "2025",
@@ -10059,7 +10429,38 @@
   {
     "doi": "10.26599/FRICT.2025.9441085",
     "title": "Investigation of the influence of substrate hardness on the tribological performance of graphene oxide solid lubricant coatings",
-    "authors": "Yuzhen Liu, Hui Chen, Wenli Wang Kai Le, Guoqing Wang, Yong Luo, Xiaoming Gao, Xu Zhao, Xingnan Liu, Shusheng Xu, Dae-Eun Kim Weimin Liu",
+    "authors": [
+      {
+        "name": "Yuzhen Liu"
+      },
+      {
+        "name": "Hui Chen"
+      },
+      {
+        "name": "Wenli Wang Kai Le"
+      },
+      {
+        "name": "Guoqing Wang"
+      },
+      {
+        "name": "Yong Luo"
+      },
+      {
+        "name": "Xiaoming Gao"
+      },
+      {
+        "name": "Xu Zhao"
+      },
+      {
+        "name": "Xingnan Liu"
+      },
+      {
+        "name": "Shusheng Xu"
+      },
+      {
+        "name": "Dae-Eun Kim Weimin Liu"
+      }
+    ],
     "authorNum": 12,
     "type": "Research Article",
     "year": "2025",
@@ -10084,7 +10485,20 @@
   {
     "doi": "10.26599/FRICT.2025.9441083",
     "title": "Experimental study on deuterium–deuterium thermonuclear fusion with interface confinement",
-    "authors": "Darong Chen, Liang Jiang, Shuai Chen Bao Wang, Dangguo Li Peng Liang",
+    "authors": [
+      {
+        "name": "Darong Chen"
+      },
+      {
+        "name": "Liang Jiang"
+      },
+      {
+        "name": "Shuai Chen Bao Wang"
+      },
+      {
+        "name": "Dangguo Li Peng Liang"
+      }
+    ],
     "authorNum": 6,
     "type": "Research Article",
     "year": "2025",
@@ -10108,7 +10522,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441075",
     "title": "Critical advances in superlubricity: From current challenges to sustainable development beyond laboratory",
-    "authors": "Huajie Tang, Wenli Deng, Jinjin Li Jiaqi He Xinchun Chen",
+    "authors": [
+      {
+        "name": "Huajie Tang"
+      },
+      {
+        "name": "Wenli Deng"
+      },
+      {
+        "name": "Jinjin Li Jiaqi He Xinchun Chen"
+      }
+    ],
     "authorNum": 5,
     "type": "Review Article",
     "year": "2025",
@@ -10133,7 +10557,26 @@
   {
     "doi": "10.26599/FRICT.2025.9441064",
     "title": "Improving the superelastic wear resistance of laser powder bed fusing (LPBF) Ni-rich NiTi alloys by mechanical training",
-    "authors": "Qingquan Zhang, Weikang Sun, Yuting Liu Zhenglei Yu, Shijie Hao, Lishan Cui, Luquan Ren Zhihui Zhang",
+    "authors": [
+      {
+        "name": "Qingquan Zhang"
+      },
+      {
+        "name": "Weikang Sun"
+      },
+      {
+        "name": "Yuting Liu Zhenglei Yu"
+      },
+      {
+        "name": "Shijie Hao"
+      },
+      {
+        "name": "Lishan Cui"
+      },
+      {
+        "name": "Luquan Ren Zhihui Zhang"
+      }
+    ],
     "authorNum": 8,
     "type": "Research Article",
     "year": "2025",
@@ -10158,7 +10601,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441062",
     "title": "Weighted physics-informed neural network (weighted PINN) for obtaining elastic responses under Hertzian-like contact",
-    "authors": "Yang Zhao, Zhongxue Fu, Jianfeng Zhao",
+    "authors": [
+      {
+        "name": "Yang Zhao"
+      },
+      {
+        "name": "Zhongxue Fu"
+      },
+      {
+        "name": "Jianfeng Zhao"
+      }
+    ],
     "authorNum": 3,
     "type": "Research Article",
     "year": "2025",
@@ -10182,7 +10635,23 @@
   {
     "doi": "10.26599/FRICT.2025.9441060",
     "title": "A framework for wheel profile wear prediction of high-speed trains considering tread modification",
-    "authors": "Yuchen Xie, Maoru Chi, Wubin Cai Shulin Liang, Yixiao Li, Yabo Zhou Peng Wang",
+    "authors": [
+      {
+        "name": "Yuchen Xie"
+      },
+      {
+        "name": "Maoru Chi"
+      },
+      {
+        "name": "Wubin Cai Shulin Liang"
+      },
+      {
+        "name": "Yixiao Li"
+      },
+      {
+        "name": "Yabo Zhou Peng Wang"
+      }
+    ],
     "authorNum": 7,
     "type": "Research Article",
     "year": "2025",
@@ -10206,7 +10675,23 @@
   {
     "doi": "10.26599/FRICT.2025.9441058",
     "title": "Impact of elastic instabilities on friction induced by capillary adhesion",
-    "authors": "Tianyan Gao, Guorui Wang, Tao Wang Zijian Chen, Houbo Li, Kun Liu Zhong Zhang",
+    "authors": [
+      {
+        "name": "Tianyan Gao"
+      },
+      {
+        "name": "Guorui Wang"
+      },
+      {
+        "name": "Tao Wang Zijian Chen"
+      },
+      {
+        "name": "Houbo Li"
+      },
+      {
+        "name": "Kun Liu Zhong Zhang"
+      }
+    ],
     "authorNum": 7,
     "type": "Research Article",
     "year": "2025",
@@ -10230,7 +10715,20 @@
   {
     "doi": "10.26599/FRICT.2025.9441054",
     "title": "Flexible carbon fiber/epoxy resin-based self-lubricating composites reinforced by continuously regenerated lignocellulose and MoS<sub>2</sub> nanosheets",
-    "authors": "Zhiqiang Shan, Xiaohua Jia, Yong Qiu Jin Yang, Hengzhong Fan Haojie Song",
+    "authors": [
+      {
+        "name": "Zhiqiang Shan"
+      },
+      {
+        "name": "Xiaohua Jia"
+      },
+      {
+        "name": "Yong Qiu Jin Yang"
+      },
+      {
+        "name": "Hengzhong Fan Haojie Song"
+      }
+    ],
     "authorNum": 6,
     "type": "Research Article",
     "year": "2025",
@@ -10254,7 +10752,23 @@
   {
     "doi": "10.26599/FRICT.2025.9441047",
     "title": "Gallium-based liquid metal as a special lubricant: A review",
-    "authors": "Songjie Dai, Hui Zhang, Yang Liu Shili Guo, Jiawei Chen, Baotong Li Guangneng Dong",
+    "authors": [
+      {
+        "name": "Songjie Dai"
+      },
+      {
+        "name": "Hui Zhang"
+      },
+      {
+        "name": "Yang Liu Shili Guo"
+      },
+      {
+        "name": "Jiawei Chen"
+      },
+      {
+        "name": "Baotong Li Guangneng Dong"
+      }
+    ],
     "authorNum": 7,
     "type": "Review Article",
     "year": "2025",
@@ -10278,7 +10792,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441076",
     "title": "Ice friction: A brief review of the influencing factors and experimental methods",
-    "authors": "Ernests Jansons, Janis Lungevics, Igor Velkavrh  Thomas Wright",
+    "authors": [
+      {
+        "name": "Ernests Jansons"
+      },
+      {
+        "name": "Janis Lungevics"
+      },
+      {
+        "name": "Igor Velkavrh  Thomas Wright"
+      }
+    ],
     "authorNum": 4,
     "type": "Review Article",
     "year": "2025",
@@ -10302,7 +10826,20 @@
   {
     "doi": "10.26599/FRICT.2025.9441069",
     "title": "On the multi-scale nature of ski–snow friction in cold conditions",
-    "authors": "Kalle Kalliorinne, Gustav Hindér, Joakim Sandberg Hans-Christer Holmberg, Roland Larsson Andreas Almqvist",
+    "authors": [
+      {
+        "name": "Kalle Kalliorinne"
+      },
+      {
+        "name": "Gustav Hindér"
+      },
+      {
+        "name": "Joakim Sandberg Hans-Christer Holmberg"
+      },
+      {
+        "name": "Roland Larsson Andreas Almqvist"
+      }
+    ],
     "authorNum": 6,
     "type": "Research Article",
     "year": "2025",
@@ -10326,7 +10863,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441065",
     "title": "Ultrasonic measurement for surface damage monitoring in coated bearing shells",
-    "authors": "Liqun Wu, Ion Palamarciuc, Rizwan Bajwa Yi Zhang Rob Dwyer-Joyce",
+    "authors": [
+      {
+        "name": "Liqun Wu"
+      },
+      {
+        "name": "Ion Palamarciuc"
+      },
+      {
+        "name": "Rizwan Bajwa Yi Zhang Rob Dwyer-Joyce"
+      }
+    ],
     "authorNum": 5,
     "type": "Research Article",
     "year": "2025",
@@ -10351,7 +10898,20 @@
   {
     "doi": "10.26599/FRICT.2025.9441061",
     "title": "When ultrathin carbon layer system chemistry dictates the tribo-interface: Origin of slippery and wear-resistant surfaces",
-    "authors": "Rajesh Kumar, Pankaj Bharti, Reuben J. Yeo Avanish K. Srivastava, Chetna Dhand Neeraj Dwivedi",
+    "authors": [
+      {
+        "name": "Rajesh Kumar"
+      },
+      {
+        "name": "Pankaj Bharti"
+      },
+      {
+        "name": "Reuben J. Yeo Avanish K. Srivastava"
+      },
+      {
+        "name": "Chetna Dhand Neeraj Dwivedi"
+      }
+    ],
     "authorNum": 6,
     "type": "Research Article",
     "year": "2025",
@@ -10376,7 +10936,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441042",
     "title": "An improved equivalent viscosity model for the bubbly oil under high shear rate",
-    "authors": "Shaohua Li, Shuyun Jiang, Xiaohui Lin  Chibin Zhang",
+    "authors": [
+      {
+        "name": "Shaohua Li"
+      },
+      {
+        "name": "Shuyun Jiang"
+      },
+      {
+        "name": "Xiaohui Lin  Chibin Zhang"
+      }
+    ],
     "authorNum": 4,
     "type": "Research Article",
     "year": "2025",
@@ -10400,7 +10970,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441041",
     "title": "Modeling and experimental research on rough tooth surface contact fatigue calculation considering hardness gradient and residual stress",
-    "authors": "Yuqin Wen, Wei Zhou, Jinyuan Tang",
+    "authors": [
+      {
+        "name": "Yuqin Wen"
+      },
+      {
+        "name": "Wei Zhou"
+      },
+      {
+        "name": "Jinyuan Tang"
+      }
+    ],
     "authorNum": 3,
     "type": "Research Article",
     "year": "2025",
@@ -10424,7 +11004,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441037",
     "title": "Wear-resistant and anticorrosion mechanism for transmission friction pairs in marine environment",
-    "authors": "Ke Ning, Qi Wang, Jianmei Wang  Wengang Ning",
+    "authors": [
+      {
+        "name": "Ke Ning"
+      },
+      {
+        "name": "Qi Wang"
+      },
+      {
+        "name": "Jianmei Wang  Wengang Ning"
+      }
+    ],
     "authorNum": 4,
     "type": "Research Article",
     "year": "2025",
@@ -10449,7 +11039,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441035",
     "title": "Physics-informed neural network for hydrodynamic lubrication with film thickness discontinuity",
-    "authors": "Bochao Guan, Qiang He, Yang Hu Zhiyuan Zheng Weifeng Huang",
+    "authors": [
+      {
+        "name": "Bochao Guan"
+      },
+      {
+        "name": "Qiang He"
+      },
+      {
+        "name": "Yang Hu Zhiyuan Zheng Weifeng Huang"
+      }
+    ],
     "authorNum": 5,
     "type": "Research Article",
     "year": "2025",
@@ -10474,7 +11074,20 @@
   {
     "doi": "10.26599/FRICT.2025.9441034",
     "title": "Insight into remarkable oil superlubricity enabled by polyether-modified silicone oil on engineering steel",
-    "authors": "Qiang Ma, Chengpeng Yan, Xin Xu Meidi Liang, Ke Hua Haifeng Wang",
+    "authors": [
+      {
+        "name": "Qiang Ma"
+      },
+      {
+        "name": "Chengpeng Yan"
+      },
+      {
+        "name": "Xin Xu Meidi Liang"
+      },
+      {
+        "name": "Ke Hua Haifeng Wang"
+      }
+    ],
     "authorNum": 6,
     "type": "Research Article",
     "year": "2025",
@@ -10498,7 +11111,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441033",
     "title": "A review of drag reduction methods and principles in bionic interface",
-    "authors": "Yiwei Hu, Yukai Sun, Liran Ma  Jianbin Luo",
+    "authors": [
+      {
+        "name": "Yiwei Hu"
+      },
+      {
+        "name": "Yukai Sun"
+      },
+      {
+        "name": "Liran Ma  Jianbin Luo"
+      }
+    ],
     "authorNum": 4,
     "type": "Review Article",
     "year": "2025",
@@ -10523,7 +11146,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441032",
     "title": "Recognizing and controlling water friction in nanoconfinement from the first water layer",
-    "authors": "Yang Zhao, Luyao Bao, Xiaoli Fan  Feng Zhou",
+    "authors": [
+      {
+        "name": "Yang Zhao"
+      },
+      {
+        "name": "Luyao Bao"
+      },
+      {
+        "name": "Xiaoli Fan  Feng Zhou"
+      }
+    ],
     "authorNum": 4,
     "type": "Research Article",
     "year": "2025",
@@ -10548,7 +11181,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441029",
     "title": "Boundary film–liquid mixed lubrication of biomimetic lubricants on cartilage interfaces",
-    "authors": "Dangsheng Xiong, Chenyang Gong, Zhibing Shi  Lingling Cui",
+    "authors": [
+      {
+        "name": "Dangsheng Xiong"
+      },
+      {
+        "name": "Chenyang Gong"
+      },
+      {
+        "name": "Zhibing Shi  Lingling Cui"
+      }
+    ],
     "authorNum": 4,
     "type": "Research Article",
     "year": "2025",
@@ -10572,7 +11215,32 @@
   {
     "doi": "10.26599/FRICT.2025.9441028",
     "title": "Metallic-peristome surface inspired by <i>Nepenthes alata</i> for anti-sticking of electrosurgical electrodes",
-    "authors": "Guang Liu, Jiajun Yang, Kaiteng Zhang Haipeng Yan, Yingdong Zheng, Yu Yan, Liwen Zhang, Zehui Zhao, Guang Yang Huawei Chen",
+    "authors": [
+      {
+        "name": "Guang Liu"
+      },
+      {
+        "name": "Jiajun Yang"
+      },
+      {
+        "name": "Kaiteng Zhang Haipeng Yan"
+      },
+      {
+        "name": "Yingdong Zheng"
+      },
+      {
+        "name": "Yu Yan"
+      },
+      {
+        "name": "Liwen Zhang"
+      },
+      {
+        "name": "Zehui Zhao"
+      },
+      {
+        "name": "Guang Yang Huawei Chen"
+      }
+    ],
     "authorNum": 10,
     "type": "Research Article",
     "year": "2025",
@@ -10596,7 +11264,23 @@
   {
     "doi": "10.26599/FRICT.2025.9441027",
     "title": "Gecko-inspired contact-sensible and self-adaptive soft gripping of curved flexible surfaces",
-    "authors": "Wenhui Cui, Yuanzhe Li, Tianhui Sun Tong Ling, Shiyang Guo, Wenling Zhang Yu Tian",
+    "authors": [
+      {
+        "name": "Wenhui Cui"
+      },
+      {
+        "name": "Yuanzhe Li"
+      },
+      {
+        "name": "Tianhui Sun Tong Ling"
+      },
+      {
+        "name": "Shiyang Guo"
+      },
+      {
+        "name": "Wenling Zhang Yu Tian"
+      }
+    ],
     "authorNum": 7,
     "type": "Research Article",
     "year": "2025",
@@ -10621,7 +11305,26 @@
   {
     "doi": "10.26599/FRICT.2025.9441002",
     "title": "Dynamic observation of the influence of different acceleration forms on the friction lining during the friction transmission process in a simulated coal mine environment",
-    "authors": "Yu Guo, Cunao Feng, Qiuxue Kuang Yang Cao, Xinyue Zhang, Kai Chen, Xiaowei Li Dekun Zhang",
+    "authors": [
+      {
+        "name": "Yu Guo"
+      },
+      {
+        "name": "Cunao Feng"
+      },
+      {
+        "name": "Qiuxue Kuang Yang Cao"
+      },
+      {
+        "name": "Xinyue Zhang"
+      },
+      {
+        "name": "Kai Chen"
+      },
+      {
+        "name": "Xiaowei Li Dekun Zhang"
+      }
+    ],
     "authorNum": 8,
     "type": "Research Article",
     "year": "2025",
@@ -11466,7 +12169,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441050",
     "title": "Dynamic tire-pavement friction prediction with an integrated sensing-modeling approach",
-    "authors": "Baiyu Jiang, Xunjie Chen, Hao Wang  Jingang Yi",
+    "authors": [
+      {
+        "name": "Baiyu Jiang"
+      },
+      {
+        "name": "Xunjie Chen"
+      },
+      {
+        "name": "Hao Wang  Jingang Yi"
+      }
+    ],
     "authorNum": 4,
     "type": "Research Article",
     "year": "2025",
@@ -11491,7 +12204,23 @@
   {
     "doi": "10.26599/FRICT.2025.9441049",
     "title": "Ultralow wear in boundary lubrication: A tribological study of Bi-alloyed steel under high normal loads and sliding speeds",
-    "authors": "Aleksey V. Makarov, Vitaliy A. Sirosh, Natalia N. Soboleva Elena G. Volkova, Aleksey G. Ipatov, Faat Z. Gil’mutdinov Evgeny V. Kharanzhevskiy",
+    "authors": [
+      {
+        "name": "Aleksey V. Makarov"
+      },
+      {
+        "name": "Vitaliy A. Sirosh"
+      },
+      {
+        "name": "Natalia N. Soboleva Elena G. Volkova"
+      },
+      {
+        "name": "Aleksey G. Ipatov"
+      },
+      {
+        "name": "Faat Z. Gil’mutdinov Evgeny V. Kharanzhevskiy"
+      }
+    ],
     "authorNum": 7,
     "type": "Research Article",
     "year": "2025",
@@ -11516,7 +12245,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441044",
     "title": "Footwear soles friction on steel and tile surfaces: Experiments and modeling",
-    "authors": "Lasse Jakobsen, Avinash Tiwari, Ion Marius Sivebaek  Bo Persson",
+    "authors": [
+      {
+        "name": "Lasse Jakobsen"
+      },
+      {
+        "name": "Avinash Tiwari"
+      },
+      {
+        "name": "Ion Marius Sivebaek  Bo Persson"
+      }
+    ],
     "authorNum": 4,
     "type": "Research Article",
     "year": "2025",
@@ -11540,7 +12279,35 @@
   {
     "doi": "10.26599/FRICT.2025.9441043",
     "title": "Phononic insights into sliding friction",
-    "authors": "Chengdong Sun, Shuyu Huang, Yi Tao Zaoqi Duan, Quan Han, Kai Chen, Yajing Kan, Zhonghua Ni, Zhiyong Wei, Yan Zhang Yunfei Chen",
+    "authors": [
+      {
+        "name": "Chengdong Sun"
+      },
+      {
+        "name": "Shuyu Huang"
+      },
+      {
+        "name": "Yi Tao Zaoqi Duan"
+      },
+      {
+        "name": "Quan Han"
+      },
+      {
+        "name": "Kai Chen"
+      },
+      {
+        "name": "Yajing Kan"
+      },
+      {
+        "name": "Zhonghua Ni"
+      },
+      {
+        "name": "Zhiyong Wei"
+      },
+      {
+        "name": "Yan Zhang Yunfei Chen"
+      }
+    ],
     "authorNum": 11,
     "type": "Research Article",
     "year": "2025",
@@ -11565,7 +12332,32 @@
   {
     "doi": "10.26599/FRICT.2025.9441010",
     "title": "Magnetic lubricants: Preparation, physical mechanism, and application",
-    "authors": "Lingyi Sun, Yanbin Zhang, Xin Cui Qinglong An, Yun Chen, Dongzhou Jia, Peng Gong, Mingzheng Liu, Yusuf Suleiman Dambatta Changhe Li",
+    "authors": [
+      {
+        "name": "Lingyi Sun"
+      },
+      {
+        "name": "Yanbin Zhang"
+      },
+      {
+        "name": "Xin Cui Qinglong An"
+      },
+      {
+        "name": "Yun Chen"
+      },
+      {
+        "name": "Dongzhou Jia"
+      },
+      {
+        "name": "Peng Gong"
+      },
+      {
+        "name": "Mingzheng Liu"
+      },
+      {
+        "name": "Yusuf Suleiman Dambatta Changhe Li"
+      }
+    ],
     "authorNum": 10,
     "type": "Review Article",
     "year": "2025",
@@ -11589,7 +12381,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441003",
     "title": "Research progress of the interaction between blood vessels and intervention catheters and its surface modification",
-    "authors": "Huilu Yuan, Chengxiong Lin, Chengyong Wang",
+    "authors": [
+      {
+        "name": "Huilu Yuan"
+      },
+      {
+        "name": "Chengxiong Lin"
+      },
+      {
+        "name": "Chengyong Wang"
+      }
+    ],
     "authorNum": 3,
     "type": "Review Article",
     "year": "2025",
@@ -11613,7 +12415,14 @@
   {
     "doi": "10.26599/FRICT.2025.9440993",
     "title": "Improvement in the planarization of 4H-SiC(0001) achieved by photo-assisted chemical mechanical polishing (P-CMP) using nano TiO<sub>2</sub>-based composite abrasive with heterostructure",
-    "authors": "Shidong Chen, Hong Lei",
+    "authors": [
+      {
+        "name": "Shidong Chen"
+      },
+      {
+        "name": "Hong Lei"
+      }
+    ],
     "authorNum": 2,
     "type": "Research Article",
     "year": "2025",
@@ -11637,7 +12446,17 @@
   {
     "doi": "10.26599/FRICT.2025.9440992",
     "title": "Analytical model for revealing tool wear law during edge trimming of carbon fiber reinforced plastics composites",
-    "authors": "Yue Li, Hongyan Zhou, Boyu Zhang Kai Sun Xigao Jian",
+    "authors": [
+      {
+        "name": "Yue Li"
+      },
+      {
+        "name": "Hongyan Zhou"
+      },
+      {
+        "name": "Boyu Zhang Kai Sun Xigao Jian"
+      }
+    ],
     "authorNum": 5,
     "type": "Research Article",
     "year": "2025",
@@ -11661,7 +12480,20 @@
   {
     "doi": "10.26599/FRICT.2025.9440990",
     "title": "Surface wettability-driven oil film formation in slider-on-disc contact under limited lubrication",
-    "authors": "Zhaogang Jing, Yusheng Jian, Feng Guo Penghao Duan, Pat Lam Wong Ziying Li",
+    "authors": [
+      {
+        "name": "Zhaogang Jing"
+      },
+      {
+        "name": "Yusheng Jian"
+      },
+      {
+        "name": "Feng Guo Penghao Duan"
+      },
+      {
+        "name": "Pat Lam Wong Ziying Li"
+      }
+    ],
     "authorNum": 6,
     "type": "Research Article",
     "year": "2025",
@@ -11686,7 +12518,29 @@
   {
     "doi": "10.26599/FRICT.2025.9440989",
     "title": "Superlubricating electrical contact between graphite layers",
-    "authors": "Yanmin Liu, Dong Wang, Ke Zhang Haijun Wu, Guoqing Yu, Qiang Zhang, Yuanzi Zhou, Tianbao Ma Aisheng Song",
+    "authors": [
+      {
+        "name": "Yanmin Liu"
+      },
+      {
+        "name": "Dong Wang"
+      },
+      {
+        "name": "Ke Zhang Haijun Wu"
+      },
+      {
+        "name": "Guoqing Yu"
+      },
+      {
+        "name": "Qiang Zhang"
+      },
+      {
+        "name": "Yuanzi Zhou"
+      },
+      {
+        "name": "Tianbao Ma Aisheng Song"
+      }
+    ],
     "authorNum": 9,
     "type": "Research Article",
     "year": "2025",
@@ -11711,7 +12565,17 @@
   {
     "doi": "10.26599/FRICT.2025.9440982",
     "title": "Stacking ensemble learning framework for predicting tribological properties and optimal additive ratios of amide-based greases",
-    "authors": "Yanqiu Xia, Zhen He, Xin Feng",
+    "authors": [
+      {
+        "name": "Yanqiu Xia"
+      },
+      {
+        "name": "Zhen He"
+      },
+      {
+        "name": "Xin Feng"
+      }
+    ],
     "authorNum": 3,
     "type": "Research Article",
     "year": "2025",
@@ -11736,7 +12600,32 @@
   {
     "doi": "10.26599/FRICT.2025.9440981",
     "title": "Onion-shell nuclei on monolayer MoS<sub>2</sub> facilitate friction reduction",
-    "authors": "Haowen Luo, Shenghong Liu, Zhihuan Li Yuan Li, Alain Dubois, Yadong Xu, Nan Kang, Mohamed El Mansori, Feng Zhou Jianxi Liu",
+    "authors": [
+      {
+        "name": "Haowen Luo"
+      },
+      {
+        "name": "Shenghong Liu"
+      },
+      {
+        "name": "Zhihuan Li Yuan Li"
+      },
+      {
+        "name": "Alain Dubois"
+      },
+      {
+        "name": "Yadong Xu"
+      },
+      {
+        "name": "Nan Kang"
+      },
+      {
+        "name": "Mohamed El Mansori"
+      },
+      {
+        "name": "Feng Zhou Jianxi Liu"
+      }
+    ],
     "authorNum": 10,
     "type": "Research Article",
     "year": "2025",
@@ -11761,7 +12650,20 @@
   {
     "doi": "10.26599/FRICT.2025.9440980",
     "title": "Friction power loss in ball bearings: Correlation with bearing skidding and cage motion stability",
-    "authors": "Mingkai Wang, Linbo Zhu, Kim Tiow Ooi Haizhen Li, Ke Yan Jun Hong",
+    "authors": [
+      {
+        "name": "Mingkai Wang"
+      },
+      {
+        "name": "Linbo Zhu"
+      },
+      {
+        "name": "Kim Tiow Ooi Haizhen Li"
+      },
+      {
+        "name": "Ke Yan Jun Hong"
+      }
+    ],
     "authorNum": 6,
     "type": "Research Article",
     "year": "2025",
@@ -11786,7 +12688,20 @@
   {
     "doi": "10.26599/FRICT.2025.9440979",
     "title": "Influence of external magnetic field on the tribological performance of magnetic fluids in different lubrication regimes",
-    "authors": "Xiaoyu Wang, Yan Zhao, Huanchen Liu Xiaobo Wang, Wenjing Lou Jun Yang",
+    "authors": [
+      {
+        "name": "Xiaoyu Wang"
+      },
+      {
+        "name": "Yan Zhao"
+      },
+      {
+        "name": "Huanchen Liu Xiaobo Wang"
+      },
+      {
+        "name": "Wenjing Lou Jun Yang"
+      }
+    ],
     "authorNum": 6,
     "type": "Research Article",
     "year": "2025",
@@ -11810,7 +12725,23 @@
   {
     "doi": "10.26599/FRICT.2025.9440972",
     "title": "Effect of hydrated ions and wettability on ice friction",
-    "authors": "Chang Dong, Yuan Liu, Tianyi Han Xue Zhou, Yanan Meng, Yu Tian Liran Ma",
+    "authors": [
+      {
+        "name": "Chang Dong"
+      },
+      {
+        "name": "Yuan Liu"
+      },
+      {
+        "name": "Tianyi Han Xue Zhou"
+      },
+      {
+        "name": "Yanan Meng"
+      },
+      {
+        "name": "Yu Tian Liran Ma"
+      }
+    ],
     "authorNum": 7,
     "type": "Research Article",
     "year": "2025",
@@ -11834,7 +12765,26 @@
   {
     "doi": "10.26599/FRICT.2025.9441040",
     "title": "Friction and wear characteristics of acidic phosphate ester boundary layers analyzed by near-edge X-ray absorption fine structure",
-    "authors": "Naoko Takechi-Takahashi, Kensuke Matsushima, Noritake Isomura Satoru Kosaka, Toshihide Ohmori, Toshinari Sano, Satoru Maegawa Fumihiro Itoigawa",
+    "authors": [
+      {
+        "name": "Naoko Takechi-Takahashi"
+      },
+      {
+        "name": "Kensuke Matsushima"
+      },
+      {
+        "name": "Noritake Isomura Satoru Kosaka"
+      },
+      {
+        "name": "Toshihide Ohmori"
+      },
+      {
+        "name": "Toshinari Sano"
+      },
+      {
+        "name": "Satoru Maegawa Fumihiro Itoigawa"
+      }
+    ],
     "authorNum": 8,
     "type": "Research Article",
     "year": "2025",
@@ -11859,7 +12809,32 @@
   {
     "doi": "10.26599/FRICT.2025.9441031",
     "title": "A generalized friction law depicting the thermal effects at chemical bonding interface",
-    "authors": "Yang Wang, Yexin Li, Xiao Huang Jingxiang Xu, Yusuke Ootani, Nobuki Ozawa, Koshi Adachi, Linmao Qian, Wen Wang Momoji Kubo",
+    "authors": [
+      {
+        "name": "Yang Wang"
+      },
+      {
+        "name": "Yexin Li"
+      },
+      {
+        "name": "Xiao Huang Jingxiang Xu"
+      },
+      {
+        "name": "Yusuke Ootani"
+      },
+      {
+        "name": "Nobuki Ozawa"
+      },
+      {
+        "name": "Koshi Adachi"
+      },
+      {
+        "name": "Linmao Qian"
+      },
+      {
+        "name": "Wen Wang Momoji Kubo"
+      }
+    ],
     "authorNum": 10,
     "type": "Research Article",
     "year": "2025",
@@ -11884,7 +12859,23 @@
   {
     "doi": "10.26599/FRICT.2025.9441026",
     "title": "Effects of contact path on lubricant distribution and EHL film formation",
-    "authors": "Xuyang Jin, Xinming Li, Linqing Bai He Chong, Feng Guo, Gerhard Poll Yongqiang Fu",
+    "authors": [
+      {
+        "name": "Xuyang Jin"
+      },
+      {
+        "name": "Xinming Li"
+      },
+      {
+        "name": "Linqing Bai He Chong"
+      },
+      {
+        "name": "Feng Guo"
+      },
+      {
+        "name": "Gerhard Poll Yongqiang Fu"
+      }
+    ],
     "authorNum": 7,
     "type": "Research Article",
     "year": "2025",
@@ -11908,7 +12899,20 @@
   {
     "doi": "10.26599/FRICT.2025.9441022",
     "title": "Environmental limitations of PTFE for ultralow friction composites and alternatives to using liquid lubricants",
-    "authors": "Yuri Park, Si-Geun Choi, Chan-Hyun Cho Jong-Hyoung Kim, Jin-Young Park Myoung-Hwan Park",
+    "authors": [
+      {
+        "name": "Yuri Park"
+      },
+      {
+        "name": "Si-Geun Choi"
+      },
+      {
+        "name": "Chan-Hyun Cho Jong-Hyoung Kim"
+      },
+      {
+        "name": "Jin-Young Park Myoung-Hwan Park"
+      }
+    ],
     "authorNum": 6,
     "type": "Review Article",
     "year": "2025",
@@ -11933,7 +12937,35 @@
   {
     "doi": "10.26599/FRICT.2025.9440977",
     "title": "Surface <i>in-situ</i> graphitization and properties of amorphous carbon film induced by laser irradiation",
-    "authors": "Zan Chen, Xubing Wei, Shiqi Lu Jiaqing Ding, Naizhou Du, Cunao Feng, Kai Chen, Peng Guo, Kwang-Ryeol Lee, Guangan Zhang Xiaowei Li",
+    "authors": [
+      {
+        "name": "Zan Chen"
+      },
+      {
+        "name": "Xubing Wei"
+      },
+      {
+        "name": "Shiqi Lu Jiaqing Ding"
+      },
+      {
+        "name": "Naizhou Du"
+      },
+      {
+        "name": "Cunao Feng"
+      },
+      {
+        "name": "Kai Chen"
+      },
+      {
+        "name": "Peng Guo"
+      },
+      {
+        "name": "Kwang-Ryeol Lee"
+      },
+      {
+        "name": "Guangan Zhang Xiaowei Li"
+      }
+    ],
     "authorNum": 11,
     "type": "Research Article",
     "year": "2025",
@@ -11957,7 +12989,26 @@
   {
     "doi": "10.26599/FRICT.2025.9440976",
     "title": "Probing dynamics and ion structuring of imidazolium ionic liquid confined at charged graphene surfaces using graphene colloid probe AFM",
-    "authors": "Muqiu Wu, Zhongyang Dai, Fan Zhang Faiz Ullah Shah, Enrico Gnecco, Yijun Shi, Braham Prakash Rong An",
+    "authors": [
+      {
+        "name": "Muqiu Wu"
+      },
+      {
+        "name": "Zhongyang Dai"
+      },
+      {
+        "name": "Fan Zhang Faiz Ullah Shah"
+      },
+      {
+        "name": "Enrico Gnecco"
+      },
+      {
+        "name": "Yijun Shi"
+      },
+      {
+        "name": "Braham Prakash Rong An"
+      }
+    ],
     "authorNum": 8,
     "type": "Research Article",
     "year": "2025",
@@ -11982,7 +13033,17 @@
   {
     "doi": "10.26599/FRICT.2025.9440975",
     "title": "Cross-scale prediction for thermochemical–mechanical damage of barrel weapons under high-temperature and supersonic environments",
-    "authors": "Shuli Li, Guolai Yang, Liqun Wang",
+    "authors": [
+      {
+        "name": "Shuli Li"
+      },
+      {
+        "name": "Guolai Yang"
+      },
+      {
+        "name": "Liqun Wang"
+      }
+    ],
     "authorNum": 3,
     "type": "Research Article",
     "year": "2025",
@@ -12007,7 +13068,23 @@
   {
     "doi": "10.26599/FRICT.2025.9440974",
     "title": "Study on the tribological behaviors of the cylinder liner-piston ring in the ammonia-fueled engine",
-    "authors": "Xing Xu, Chang Ge, Baofeng Zhang Xuan Ma, Rui Guo, Xiaolong Wang Xiqun Lu",
+    "authors": [
+      {
+        "name": "Xing Xu"
+      },
+      {
+        "name": "Chang Ge"
+      },
+      {
+        "name": "Baofeng Zhang Xuan Ma"
+      },
+      {
+        "name": "Rui Guo"
+      },
+      {
+        "name": "Xiaolong Wang Xiqun Lu"
+      }
+    ],
     "authorNum": 7,
     "type": "Research Article",
     "year": "2025",
@@ -12032,7 +13109,17 @@
   {
     "doi": "10.26599/FRICT.2025.9440973",
     "title": "Superlubricity achieved by polyvinylpyrrolidone at Si<sub>3</sub>N<sub>4</sub>/sapphire interfaces",
-    "authors": "Hongdong Wang, Zhen Luo, Kunpeng Wang Yuhong Liu Jianhua Zhang",
+    "authors": [
+      {
+        "name": "Hongdong Wang"
+      },
+      {
+        "name": "Zhen Luo"
+      },
+      {
+        "name": "Kunpeng Wang Yuhong Liu Jianhua Zhang"
+      }
+    ],
     "authorNum": 5,
     "type": "Research Article",
     "year": "2025",
@@ -12057,7 +13144,17 @@
   {
     "doi": "10.26599/FRICT.2025.9440971",
     "title": "Low friction and wear characteristics formed by mechanically induced surface nanocrystallization: A review of recent advances",
-    "authors": "Youwang Tu, Yong He, Lei Zhang  Miao Song",
+    "authors": [
+      {
+        "name": "Youwang Tu"
+      },
+      {
+        "name": "Yong He"
+      },
+      {
+        "name": "Lei Zhang  Miao Song"
+      }
+    ],
     "authorNum": 4,
     "type": "Review Article",
     "year": "2025",
@@ -12082,7 +13179,38 @@
   {
     "doi": "10.26599/FRICT.2025.9440967",
     "title": "Superlubrication of poly-α-olefin-8 (PAO8) enabled by MXene/PI coating",
-    "authors": "Peng Wei, Xin Hou, Shimao Han Xiangli Wen, Xue Zhou, Yan Meng, Luo Yue, Hui Zhao, Gang Wen, Hui Cao, Pengpeng Bai Yu Tian",
+    "authors": [
+      {
+        "name": "Peng Wei"
+      },
+      {
+        "name": "Xin Hou"
+      },
+      {
+        "name": "Shimao Han Xiangli Wen"
+      },
+      {
+        "name": "Xue Zhou"
+      },
+      {
+        "name": "Yan Meng"
+      },
+      {
+        "name": "Luo Yue"
+      },
+      {
+        "name": "Hui Zhao"
+      },
+      {
+        "name": "Gang Wen"
+      },
+      {
+        "name": "Hui Cao"
+      },
+      {
+        "name": "Pengpeng Bai Yu Tian"
+      }
+    ],
     "authorNum": 12,
     "type": "Research Article",
     "year": "2025",
@@ -12106,7 +13234,17 @@
   {
     "doi": "10.26599/FRICT.2025.9440966",
     "title": "Modelling acoustic emission generated by microslip friction between bolted joint interfaces",
-    "authors": "Jiaying Sun, Dongwu Li, Huiyi Yang  Chao Xu",
+    "authors": [
+      {
+        "name": "Jiaying Sun"
+      },
+      {
+        "name": "Dongwu Li"
+      },
+      {
+        "name": "Huiyi Yang  Chao Xu"
+      }
+    ],
     "authorNum": 4,
     "type": "Research Article",
     "year": "2025",
@@ -12131,7 +13269,20 @@
   {
     "doi": "10.26599/FRICT.2025.9440961",
     "title": "Individual and interactive action mechanisms of mechanical, chemical, and electrical factors in Co polishing",
-    "authors": "Fangjin Xie, Min Zhong, Wenhu Xu Jianfeng Chen, Xiaobing Li Meirong Yi",
+    "authors": [
+      {
+        "name": "Fangjin Xie"
+      },
+      {
+        "name": "Min Zhong"
+      },
+      {
+        "name": "Wenhu Xu Jianfeng Chen"
+      },
+      {
+        "name": "Xiaobing Li Meirong Yi"
+      }
+    ],
     "authorNum": 6,
     "type": "Research Article",
     "year": "2025",
@@ -12156,7 +13307,29 @@
   {
     "doi": "10.26599/FRICT.2025.9440958",
     "title": "Effect of hydrostatic pressure on the tribological behavior and mechanism of the multilayered graphite like-carbon (GLC) coating",
-    "authors": "Yingrui Liu, Xiaohui Zhou, Peng Guo Yinshui Liu, Jing Wei, Wei Yang, Kazuhito Nishimura, Aiying Wang Peiling Ke",
+    "authors": [
+      {
+        "name": "Yingrui Liu"
+      },
+      {
+        "name": "Xiaohui Zhou"
+      },
+      {
+        "name": "Peng Guo Yinshui Liu"
+      },
+      {
+        "name": "Jing Wei"
+      },
+      {
+        "name": "Wei Yang"
+      },
+      {
+        "name": "Kazuhito Nishimura"
+      },
+      {
+        "name": "Aiying Wang Peiling Ke"
+      }
+    ],
     "authorNum": 9,
     "type": "Research Article",
     "year": "2025",
@@ -12181,7 +13354,17 @@
   {
     "doi": "10.26599/FRICT.2025.9440941",
     "title": "Selective synergy of 1,3-diketone for different base oil to promote the realization of oil-based superlubricity",
-    "authors": "Shaonan Du, Yanan Meng, Chenhui Zhang  Zhi Luo",
+    "authors": [
+      {
+        "name": "Shaonan Du"
+      },
+      {
+        "name": "Yanan Meng"
+      },
+      {
+        "name": "Chenhui Zhang  Zhi Luo"
+      }
+    ],
     "authorNum": 4,
     "type": "Research Article",
     "year": "2025",
@@ -12205,7 +13388,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441024",
     "title": "Comparative tribological and drainage performance of additively manufactured outsoles tread designs",
-    "authors": "Shuo Xu, Shuvodeep De, Meysam Khaleghian  Anahita Emami",
+    "authors": [
+      {
+        "name": "Shuo Xu"
+      },
+      {
+        "name": "Shuvodeep De"
+      },
+      {
+        "name": "Meysam Khaleghian  Anahita Emami"
+      }
+    ],
     "authorNum": 4,
     "type": "Research Article",
     "year": "2025",
@@ -12230,7 +13423,23 @@
   {
     "doi": "10.26599/FRICT.2025.9441023",
     "title": "Active control of friction in electrified ball bearing prototypes using electro-sensitive clay mineral-based lubricating fluids",
-    "authors": "Samuel David Fernández-Silva, Miguel Ángel Delgado, Claudia Roman Tobias Amann, Felix Gatti, Andreas Kailer Moisés García-Morales",
+    "authors": [
+      {
+        "name": "Samuel David Fernández-Silva"
+      },
+      {
+        "name": "Miguel Ángel Delgado"
+      },
+      {
+        "name": "Claudia Roman Tobias Amann"
+      },
+      {
+        "name": "Felix Gatti"
+      },
+      {
+        "name": "Andreas Kailer Moisés García-Morales"
+      }
+    ],
     "authorNum": 7,
     "type": "Research Article",
     "year": "2025",
@@ -12255,7 +13464,17 @@
   {
     "doi": "10.26599/FRICT.2025.9441021",
     "title": "Surface modification of steel runner with improved hydrophobicity for reducing the coefficient of friction for ice",
-    "authors": "Yujin Jeon, Sumit Barthwal, Jae-Kang Kim  Si-Hyung Lim",
+    "authors": [
+      {
+        "name": "Yujin Jeon"
+      },
+      {
+        "name": "Sumit Barthwal"
+      },
+      {
+        "name": "Jae-Kang Kim  Si-Hyung Lim"
+      }
+    ],
     "authorNum": 4,
     "type": "Research Article",
     "year": "2025",
@@ -12280,7 +13499,17 @@
   {
     "doi": "10.26599/FRICT.2025.9440998",
     "title": "Non-trivial role of surrounding gases in triboluminescence: A comprehensive review",
-    "authors": "Adis A. Tukhbatullin, Glyus L. Sharipov, Roman A. Nevshupa",
+    "authors": [
+      {
+        "name": "Adis A. Tukhbatullin"
+      },
+      {
+        "name": "Glyus L. Sharipov"
+      },
+      {
+        "name": "Roman A. Nevshupa"
+      }
+    ],
     "authorNum": 3,
     "type": "Review Article",
     "year": "2025",
@@ -12304,7 +13533,23 @@
   {
     "doi": "10.26599/FRICT.2025.9440962",
     "title": "The influence of temperature on ultrasonic signals in online measurement of oil film thickness",
-    "authors": "Yaping Jia, Pan Dou, Peiping Yang Tonghai Wu, Shuo Wang, Yaguo Lei Min Yu",
+    "authors": [
+      {
+        "name": "Yaping Jia"
+      },
+      {
+        "name": "Pan Dou"
+      },
+      {
+        "name": "Peiping Yang Tonghai Wu"
+      },
+      {
+        "name": "Shuo Wang"
+      },
+      {
+        "name": "Yaguo Lei Min Yu"
+      }
+    ],
     "authorNum": 7,
     "type": "Research Article",
     "year": "2025",
@@ -12329,7 +13574,32 @@
   {
     "doi": "10.26599/FRICT.2025.9440960",
     "title": "Model of atomized droplets average particle size and verification of eco-friendly hybrid lubrication (CAMQL)",
-    "authors": "Mingzheng Liu, Changhe Li, Dongzhou Jia Xin Liu, Yanbin Zhang, Min Yang, Xin Cui, Teng Gao, Yusuf Suleiman Dambatta Runze Li",
+    "authors": [
+      {
+        "name": "Mingzheng Liu"
+      },
+      {
+        "name": "Changhe Li"
+      },
+      {
+        "name": "Dongzhou Jia Xin Liu"
+      },
+      {
+        "name": "Yanbin Zhang"
+      },
+      {
+        "name": "Min Yang"
+      },
+      {
+        "name": "Xin Cui"
+      },
+      {
+        "name": "Teng Gao"
+      },
+      {
+        "name": "Yusuf Suleiman Dambatta Runze Li"
+      }
+    ],
     "authorNum": 10,
     "type": "Research Article",
     "year": "2025",
@@ -12353,7 +13623,26 @@
   {
     "doi": "10.26599/FRICT.2025.9440959",
     "title": "Unstable feature and tribological performance transition of C<sub>f</sub>/C–SiC under elevated temperatures",
-    "authors": "Tianyi Sui, Xuan Bao, Lichao Li Yuanping He, Guochen Ning, Bin Lin, Shuai Yan Liaoliang Ke",
+    "authors": [
+      {
+        "name": "Tianyi Sui"
+      },
+      {
+        "name": "Xuan Bao"
+      },
+      {
+        "name": "Lichao Li Yuanping He"
+      },
+      {
+        "name": "Guochen Ning"
+      },
+      {
+        "name": "Bin Lin"
+      },
+      {
+        "name": "Shuai Yan Liaoliang Ke"
+      }
+    ],
     "authorNum": 8,
     "type": "Research Article",
     "year": "2025",
@@ -12378,7 +13667,29 @@
   {
     "doi": "10.26599/FRICT.2025.9440954",
     "title": "Whole course oil-based superlubricity for polyetheretherketone-bearing steel sliding pair by introducing tribocatalytically active dialkyl-dithiophosphoric-modified copper nanoparticles in poly-alpha olefin oil",
-    "authors": "Jiajing Wang, Chuanping Gao, Chunjian Duan Guangbin Yang, Jingyi Ma, Laigui Yu, Shengmao Zhang, Pingyu Zhang Zhijun Zhang",
+    "authors": [
+      {
+        "name": "Jiajing Wang"
+      },
+      {
+        "name": "Chuanping Gao"
+      },
+      {
+        "name": "Chunjian Duan Guangbin Yang"
+      },
+      {
+        "name": "Jingyi Ma"
+      },
+      {
+        "name": "Laigui Yu"
+      },
+      {
+        "name": "Shengmao Zhang"
+      },
+      {
+        "name": "Pingyu Zhang Zhijun Zhang"
+      }
+    ],
     "authorNum": 9,
     "type": "Research Article",
     "year": "2025",
@@ -12402,7 +13713,29 @@
   {
     "doi": "10.26599/FRICT.2025.9440953",
     "title": "Research on the effect of tribological behavior on magnetization process of ferromagnetic materials",
-    "authors": "Fumin Gao, Laibin Zhang, Jianchun Fan Yi Xiong, Jin Zhou, Jing Wu, Xiaotian Ma, Wenpei Zheng Wenxin Huang",
+    "authors": [
+      {
+        "name": "Fumin Gao"
+      },
+      {
+        "name": "Laibin Zhang"
+      },
+      {
+        "name": "Jianchun Fan Yi Xiong"
+      },
+      {
+        "name": "Jin Zhou"
+      },
+      {
+        "name": "Jing Wu"
+      },
+      {
+        "name": "Xiaotian Ma"
+      },
+      {
+        "name": "Wenpei Zheng Wenxin Huang"
+      }
+    ],
     "authorNum": 9,
     "type": "Research Article",
     "year": "2025",
@@ -12427,7 +13760,17 @@
   {
     "doi": "10.26599/FRICT.2025.9440952",
     "title": "Real-time measurement of dynamic film thickness via ultrasonic technology",
-    "authors": "Peng Liang, Lingsheng Kong, Feng Guo Wei Sun Fulin Jiang",
+    "authors": [
+      {
+        "name": "Peng Liang"
+      },
+      {
+        "name": "Lingsheng Kong"
+      },
+      {
+        "name": "Feng Guo Wei Sun Fulin Jiang"
+      }
+    ],
     "authorNum": 5,
     "type": "Research Article",
     "year": "2025",
@@ -12451,7 +13794,20 @@
   {
     "doi": "10.26599/FRICT.2025.9440951",
     "title": "Recent progress in high-temperature greases: Constitutive relationships, mechanisms, and applications",
-    "authors": "Haolin Li, Qunfeng Zeng, Mingjin Fan Zeming Pang, Jiahe Wang Yan Liang",
+    "authors": [
+      {
+        "name": "Haolin Li"
+      },
+      {
+        "name": "Qunfeng Zeng"
+      },
+      {
+        "name": "Mingjin Fan Zeming Pang"
+      },
+      {
+        "name": "Jiahe Wang Yan Liang"
+      }
+    ],
     "authorNum": 6,
     "type": "Review Article",
     "year": "2025",
@@ -12475,7 +13831,17 @@
   {
     "doi": "10.26599/FRICT.2025.9440950",
     "title": "Surface wettability pattern and shape gradient co-induced oil droplet directional transport for enhancement of lubrication performance",
-    "authors": "Qianhui Cheng, Yongqiang Fu, Changsong Liu  Xuecheng Ji",
+    "authors": [
+      {
+        "name": "Qianhui Cheng"
+      },
+      {
+        "name": "Yongqiang Fu"
+      },
+      {
+        "name": "Changsong Liu  Xuecheng Ji"
+      }
+    ],
     "authorNum": 4,
     "type": "Research Article",
     "year": "2025",
@@ -12500,7 +13866,17 @@
   {
     "doi": "10.26599/FRICT.2025.9440948",
     "title": "Tribological enhancement of continuous polytetrafluoroethylene composites interpenetrated by a 3D nickel network and their frictional heat transfer mechanism",
-    "authors": "Yujie Su, Yunxia Wang, Hao Liu  Fengyuan Yan",
+    "authors": [
+      {
+        "name": "Yujie Su"
+      },
+      {
+        "name": "Yunxia Wang"
+      },
+      {
+        "name": "Hao Liu  Fengyuan Yan"
+      }
+    ],
     "authorNum": 4,
     "type": "Research Article",
     "year": "2025",
@@ -12525,7 +13901,20 @@
   {
     "doi": "10.26599/FRICT.2025.9440947",
     "title": "Measurement of the equivalent friction coefficients of ball bearings based on the variations in kinetic energy",
-    "authors": "Panlong Wu, Chunlei He, Zhiyang Ren Qiang Feng, Guang Chen Chengzu Ren",
+    "authors": [
+      {
+        "name": "Panlong Wu"
+      },
+      {
+        "name": "Chunlei He"
+      },
+      {
+        "name": "Zhiyang Ren Qiang Feng"
+      },
+      {
+        "name": "Guang Chen Chengzu Ren"
+      }
+    ],
     "authorNum": 6,
     "type": "Research Article",
     "year": "2025",
@@ -12550,7 +13939,20 @@
   {
     "doi": "10.26599/FRICT.2025.9440942",
     "title": "Interface characteristics of textured composite solid lubricant coating to improve the tribological performance of TC4",
-    "authors": "Shaoqian Qin, Xiaoliang Shi, Yuchun Huang Kaipeng Zhang, Qipeng Huang Chaohua Wu",
+    "authors": [
+      {
+        "name": "Shaoqian Qin"
+      },
+      {
+        "name": "Xiaoliang Shi"
+      },
+      {
+        "name": "Yuchun Huang Kaipeng Zhang"
+      },
+      {
+        "name": "Qipeng Huang Chaohua Wu"
+      }
+    ],
     "authorNum": 6,
     "type": "Research Article",
     "year": "2025",
