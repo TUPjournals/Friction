@@ -791,7 +791,7 @@ function downloadBibTeX(idx) {
       'number = {' + (a.issue||'') + '},',
       'pages = {' + (a.firstpage||'') + '},',
       'keywords = {' + (a.keywords||[]).join(', ') + '},',
-      'url = {https://www.sciopen.com/article/' + a.doi + '},',
+      'url = {https://doi.org/' + a.doi + '},',
       'doi = {' + a.doi + '},',
       'abstract = {' + (a.abstract||'').replace(/<[^>]+>/g, '') + '}',
       '}'
